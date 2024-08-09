@@ -13,5 +13,3 @@ conn:
 
 init:
 	@make up
-	sleep 3
-	@make psql
