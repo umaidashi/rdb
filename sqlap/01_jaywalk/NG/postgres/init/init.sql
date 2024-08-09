@@ -30,6 +30,6 @@ VALUES
 INSERT INTO
   teams (name, member_id)
 VALUES
-  ('Team A', '1,2,3,4,8,9,10'),
-  ('Team B', '3,4,5,6,7'),
+  ('Team A', '1,1,2,3,4,8,9,10'),
+  ('Team B', '3,4,5,6,7,99,100'),
   ('Team C', '1,2,7,8,9,10');
